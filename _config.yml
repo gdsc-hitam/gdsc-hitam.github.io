@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: GDSC-HITAM
-description: A support site for GDSC-HITAM
+description: A support site for GDSC-HITAM Chapter.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://gdsc-hitam.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: gdsc-hitam.github.io
