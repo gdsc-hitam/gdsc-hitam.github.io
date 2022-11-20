@@ -3,6 +3,7 @@ layout: default
 title: Installation
 parent: Android
 nav_order: 2
+permalink: android/week-1
 ---
 # Install Android Studio
 

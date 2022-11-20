@@ -3,6 +3,7 @@ layout: default
 title: UI Interface
 parent: Android
 nav_order: 3
+permalink: /android/week-2
 ---
 
 # Create a project
