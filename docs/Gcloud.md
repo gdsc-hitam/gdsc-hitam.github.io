@@ -19,9 +19,12 @@ So now look at some of the features of GCP what really gives it an upper hand ov
 
 ## What are we Doing??
 
-We sent our peer Yuvraj of Computer Science Engineering(Artificial Intelligence & Machine Learning) 3rd year as a facilitator for learning all about cloud computing under the Google edu program. He is taking session for all the participants on weekly basis and acts an representative of google cloud on our campus.
+We sent our peer Yuvaraj of Computer Science Engineering(Artificial Intelligence & Machine Learning) 3rd year as a facilitator for learning all about cloud computing under the Google edu program. He is taking session for all the participants on weekly basis and acts an representative of google cloud on our campus.
 
 ## Reference
 For reference for weekly sessions following links are been presented:
 
 * [Week-1](https://docs.google.com/presentation/d/1wr084wAqyFW5iTKMURpzYsiTA75leh9P/edit?usp=sharing&ouid=112898064457760369522&rtpof=true&sd=true)
+
+### Reference YouTube Video
+[![Gcloud Video](assets/images/20221121_100148_0000.png)](https://www.youtube.com/watch?v=bqrNC4gtUtY "Gcloud Video")

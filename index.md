@@ -30,10 +30,6 @@ Google Developer Student Club HITAM is a non-profit developer group powered by G
 Sidharth Medepalli, a third year student of CSE (AI/ML) at HITAM has been officially nominated as Google Developer Student Club Lead for the year 2022-23. HITAM, as a hub for emerging technologies and multi-disciplinary engineering, has various initiatives that encourage students to play an active part in learning futuristic skills, thereby making them industry ready.
 
 
----
-
-![Alt text](assets/images/GDSC%20intro%20ppt%202022.jpg)
-
 
 ---
 
