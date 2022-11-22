@@ -32,7 +32,7 @@ Sidharth Medepalli, a third year student of CSE (AI/ML) at HITAM has been offici
 
 
 ---
-
+ 
 ## The Team
 ![Alt text](assets/images/image.jpg)
 
